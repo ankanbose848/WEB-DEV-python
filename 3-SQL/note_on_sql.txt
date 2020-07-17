@@ -1,0 +1,15 @@
+Commands to operate sql in terminal:
+
+'sudo su postgres'
+'psql' or 'psql database_name'
+
+
+
+
+
+For Creating a new database:
+
+'CREATE DATABASE database_name;'
+
+
+
